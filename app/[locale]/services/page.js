@@ -326,11 +326,11 @@ export default function ServicesPage() {
                         <span>{t("catalogue.startingAt")}</span>
                         <strong>{t(`${serviceKey}.price`)}</strong>
 
-                        {!service.pageAvailable && (
+                        {/* {!service.pageAvailable && (
                           <small className={styles.serviceAvailability}>
                             {t("catalogue.comingSoon")}
                           </small>
-                        )}
+                        )} */}
                       </div>
                     </>
                   );
