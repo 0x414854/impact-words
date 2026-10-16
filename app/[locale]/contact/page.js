@@ -173,7 +173,7 @@ export default function ContactPage() {
               <div className={styles.socialLinks}>
                 {/* LinkedIn */}
                 <a
-                  href="https://www.linkedin.com/in/votre-profil"
+                  href="https://www.linkedin.com/in/marina-salgado-73820418b/"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label={t("social.linkedin.ariaLabel")}
@@ -212,7 +212,7 @@ export default function ContactPage() {
                 </a>
 
                 {/* Facebook */}
-                <a
+                {/* <a
                   href="https://www.facebook.com/votre-profil"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -229,7 +229,7 @@ export default function ContactPage() {
                   >
                     <path d="M24 12a12 12 0 1 0-13.875 11.85v-8.39H7.08V12h3.045V9.36c0-3.005 1.79-4.665 4.53-4.665 1.31 0 2.68.235 2.68.235v2.94h-1.51c-1.49 0-1.955.925-1.955 1.875V12h3.325l-.532 3.46h-2.793v8.39A12 12 0 0 0 24 12Z" />
                   </svg>
-                </a>
+                </a> */}
               </div>
             </div>
 
