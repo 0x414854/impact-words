@@ -1,0 +1,860 @@
+{
+  "Home": {
+    "hero": {
+      "eyebrow": "SEO, CONTENU & COPYWRITING",
+      "title": {
+        "line1": "Plus de visibilité,",
+        "line2": "plus de clients.",
+        "line3": "Durablement."
+      },
+      "description": "Développez votre visibilité sur Google grâce à une stratégie SEO adaptée à votre activité. Audit de référencement naturel, optimisation de contenu, rédaction web SEO et copywriting : des prestations pensées pour attirer une audience qualifiée et valoriser votre offre.",
+      "actions": {
+        "services": "Découvrir nos services",
+        "portfolio": "Voir nos projets"
+      },
+      "trust": {
+        "title": "Le SEO au service de votre activité",
+        "description": "Stratégie, contenu et conversion."
+      },
+      "visual": {
+        "ariaLabel": "Illustration d’un tableau de bord SEO présentant une évolution du trafic organique et une stratégie de référencement naturel",
+        "brand": "Impact.Words",
+        "search": "Votre visibilité sur Google",
+        "organicTraffic": "TRAFIC ORGANIQUE",
+        "trafficStatus": "En progression",
+        "seoBadge": "↗ SEO",
+        "chartLabels": {
+          "strategy": "Stratégie",
+          "content": "Contenu",
+          "optimization": "Optimisation",
+          "tracking": "Suivi"
+        },
+        "trafficGoal": {
+          "label": "Objectif",
+          "value": "Plus de trafic qualifié"
+        },
+        "visibility": {
+          "label": "Votre visibilité",
+          "value": "Une stratégie ciblée"
+        },
+        "caption": "La bonne stratégie change la trajectoire."
+      },
+      "scroll": {
+        "ariaLabel": "Défiler jusqu'aux services",
+        "label": "DÉCOUVRIR"
+      }
+    },
+    "services": {
+      "eyebrow": "NOS EXPERTISES",
+      "title": {
+        "line1": "Des services SEO",
+        "line2": "pour votre",
+        "highlight": "croissance."
+      },
+      "intro": "Du diagnostic SEO à la rédaction de contenus, en passant par le référencement local et les pages de vente, nous vous aidons à améliorer votre présence en ligne et à mieux présenter votre offre à vos futurs clients.",
+      "contactLink": "Parlons de vos objectifs",
+      "items": {
+        "01": {
+          "title": "Audit & stratégie SEO",
+          "description": "Analysez votre site, identifiez les freins à votre référencement naturel et définissez une stratégie SEO adaptée à vos objectifs.",
+          "tags": ["Audit SEO", "Mots-clés", "Stratégie"],
+          "ariaLabel": "Discuter de Audit & stratégie SEO"
+        },
+        "02": {
+          "title": "Contenu SEO",
+          "description": "Améliorez votre visibilité sur Google grâce à des contenus optimisés, des articles de blog pertinents et un calendrier éditorial structuré.",
+          "tags": ["Rédaction SEO", "Optimisation", "Contenu"],
+          "ariaLabel": "Discuter de Contenu SEO"
+        },
+        "03": {
+          "title": "Netlinking & SEO local",
+          "description": "Renforcez l’autorité de votre site grâce aux backlinks et développez votre visibilité locale avec une fiche Google Business Profile optimisée.",
+          "tags": ["Backlinks", "Google", "Référencement local"],
+          "ariaLabel": "Discuter de Netlinking & SEO local"
+        },
+        "04": {
+          "title": "Copywriting & conversion",
+          "description": "Transformez vos visiteurs en prospects et en clients avec des pages de vente persuasives, des séquences email et des scripts publicitaires.",
+          "tags": ["Pages de vente", "Email marketing", "Publicité"],
+          "ariaLabel": "Discuter de Copywriting & conversion"
+        }
+      }
+    },
+    "approach": {
+      "ariaLabel": "Notre approche SEO",
+      "eyebrow": "NOTRE APPROCHE",
+      "title": {
+        "line1": "Le bon travail",
+        "line2": "commence par",
+        "highlight": "la bonne méthode."
+      },
+      "description": "Un référencement naturel efficace repose sur une bonne analyse, des contenus pertinents et des optimisations cohérentes avec les recherches de vos clients. Chaque action doit répondre à un objectif précis.",
+      "facts": {
+        "01": {
+          "title": "Comprendre",
+          "description": "Votre activité, votre marché et les recherches de vos clients."
+        },
+        "02": {
+          "title": "Prioriser",
+          "description": "Les optimisations SEO et les contenus les plus pertinents."
+        },
+        "03": {
+          "title": "Améliorer",
+          "description": "Votre visibilité et vos contenus au fil des évolutions."
+        }
+      }
+    },
+    "method": {
+      "eyebrow": "COMMENT NOUS TRAVAILLONS",
+      "title": {
+        "line1": "Une méthode claire,",
+        "line2": "des actions concrètes."
+      },
+      "description": "De l’audit SEO à l’optimisation de vos contenus, chaque étape contribue à construire une présence digitale plus pertinente et mieux alignée avec vos objectifs.",
+      "steps": {
+        "01": {
+          "title": "Audit & analyse",
+          "description": "Nous analysons votre site, vos mots-clés, votre marché et les opportunités d’amélioration de votre référencement naturel."
+        },
+        "02": {
+          "title": "Stratégie sur mesure",
+          "description": "Nous définissons les priorités SEO, les contenus à créer et les actions adaptées à votre activité et à vos objectifs."
+        },
+        "03": {
+          "title": "Optimisation & rédaction",
+          "description": "Nous optimisons vos pages, rédigeons vos contenus SEO et créons des textes conçus pour convaincre votre audience."
+        },
+        "04": {
+          "title": "Suivi & optimisation",
+          "description": "Nous identifions les pistes d’amélioration pour faire évoluer votre visibilité, votre contenu et vos performances dans le temps."
+        }
+      }
+    },
+    "portfolio": {
+      "eyebrow": "PROJETS SÉLECTIONNÉS",
+      "title": {
+        "line1": "Des univers différents,",
+        "line2": "une même exigence."
+      },
+      "description": "Découvrez quelques projets digitaux et leur univers.",
+      "projects": {
+        "01": {
+          "name": "CDO Multiservices",
+          "category": "Site web · Services",
+          "initials": "CDO",
+          "description": "Une présentation claire des services et de l’activité."
+        },
+        "02": {
+          "name": "Simplitech",
+          "category": "Site web · Services",
+          "initials": "S.",
+          "description": "Rédaction intégrale des textes du site web."
+        },
+        "03": {
+          "name": "Haumana Bien-Être",
+          "category": "Site web · Bien-être",
+          "initials": "HBE",
+          "description": "Un univers digital apaisant et facile à parcourir."
+        }
+      }
+    },
+    "contact": {
+      "eyebrow": "VOTRE PROCHAINE ÉTAPE",
+      "title": {
+        "line1": "Et si on faisait",
+        "line2": "grandir votre visibilité ?"
+      },
+      "description": "Besoin d’un audit SEO, d’une stratégie de contenu ou de textes plus convaincants pour votre site ? Parlons de votre activité et identifions les prestations adaptées à vos objectifs.",
+      "button": "Discuter de mon projet",
+      "artwork": {
+        "label": "GROWTH / 01"
+      }
+    },
+    "benefits": {
+      "eyebrow": "POURQUOI NOUS CHOISIR",
+      "title": {
+        "line1": "Une expertise",
+        "line2": "complète, au service",
+        "line3": "de vos",
+        "highlight": "ambitions."
+      },
+      "description": "Audit SEO, rédaction web, référencement local et copywriting : des prestations complémentaires pour améliorer votre visibilité, structurer votre contenu et présenter votre offre avec clarté.",
+      "button": "Parlons de votre projet",
+      "items": {
+        "01": {
+          "title": "Une stratégie SEO sur mesure",
+          "description": "Chaque recommandation tient compte de votre activité, de votre marché, de vos mots-clés et de vos objectifs."
+        },
+        "02": {
+          "title": "Une visibilité durable",
+          "description": "Nous privilégions un référencement naturel fondé sur des optimisations pertinentes et des contenus utiles."
+        },
+        "03": {
+          "title": "Des prestations transparentes",
+          "description": "Vous connaissez les actions proposées, les livrables attendus et les priorités de votre stratégie digitale."
+        },
+        "04": {
+          "title": "Du contenu qui convainc",
+          "description": "Du référencement SEO aux pages de vente et aux emails, chaque texte répond à un objectif précis."
+        }
+      }
+    },
+    "finalCta": {
+      "eyebrow": "PRÊT À AVANCER ?",
+      "title": {
+        "line1": "Votre visibilité",
+        "line2": "commence ici."
+      },
+      "button": "Échangeons sur vos objectifs"
+    }
+  },
+
+  "Services": {
+    "hero": {
+      "eyebrow": "LES EXPERTISES IMPACT.WORDS",
+      "title": {
+        "line1": "Les bons mots.",
+        "line2": "La bonne stratégie.",
+        "line3": "Le bon impact."
+      },
+      "description": "Audit SEO, rédaction web, référencement local, pages de vente et copywriting : découvrez nos prestations pour améliorer votre visibilité en ligne et mieux valoriser votre offre.",
+      "actions": {
+        "explore": "Explorer les services",
+        "contact": "Parlons de votre projet"
+      },
+      "meta": {
+        "categories": "05 catégories",
+        "services": "15 prestations",
+        "offers": "Des offres ciblées"
+      },
+      "visual": {
+        "eyebrow": "VOTRE ÉCOSYSTÈME DIGITAL",
+        "brand": "IMPACT.WORDS",
+        "coreTitle": "Visibilité",
+        "coreAccent": "+ pertinence",
+        "caption": "Une stratégie construite autour de votre activité.",
+        "labels": {
+          "audit": "Audit SEO",
+          "content": "Contenu",
+          "conversion": "Conversion",
+          "visibility": "Visibilité"
+        },
+        "steps": {
+          "analyze": "ANALYSER",
+          "optimize": "OPTIMISER",
+          "convert": "CONVERTIR"
+        }
+      },
+      "scroll": "DÉFILER POUR EXPLORER"
+    },
+    "intro": {
+      "eyebrow": "UNE APPROCHE COMPLÉMENTAIRE",
+      "title": {
+        "line1": "Chaque prestation répond",
+        "line2": "à un",
+        "highlight": "objectif précis."
+      },
+      "description": "Vous avez besoin d'améliorer votre référencement naturel, de publier des contenus mieux ciblés ou de présenter votre offre avec plus d'impact ? Parcourez les catégories et choisissez l'accompagnement adapté à votre besoin."
+    },
+    "navigation": {
+      "ariaLabel": "Catégories de services"
+    },
+    "catalogue": {
+      "ariaLabel": "Catalogue des prestations",
+      "serviceCount": "{count, plural, one {# PRESTATION} other {# PRESTATIONS}}",
+      "indicativePrice": "Tarif indicatif",
+      "startingAt": "À PARTIR DE",
+      "comingSoon": "Bientôt disponible",
+      "discoverService": "Découvrir {service}",
+      "unavailableService": "{service} : bientôt disponible"
+    },
+    "categories": {
+      "strategie-seo": {
+        "index": "STRATÉGIE",
+        "title": "Audit & stratégie SEO",
+        "description": "Comprendre votre visibilité actuelle, identifier les opportunités et construire une stratégie de référencement naturel adaptée à votre activité."
+      },
+      "contenu-seo": {
+        "index": "CONTENU",
+        "title": "Contenu & rédaction SEO",
+        "description": "Des pages et des articles utiles, structurés autour des recherches de votre audience pour soutenir votre visibilité sur les moteurs de recherche."
+      },
+      "netlinking-local": {
+        "index": "VISIBILITÉ",
+        "title": "Netlinking & référencement local",
+        "description": "Développez l'autorité de votre site et facilitez votre découverte par les internautes qui recherchent vos services, notamment dans votre zone géographique."
+      },
+      "pages-de-vente": {
+        "index": "CONVERSION",
+        "title": "Pages de vente & landing pages",
+        "description": "Structurez votre message, valorisez votre offre et guidez vos visiteurs vers une action claire grâce à des textes pensés pour la conversion."
+      },
+      "copywriting-email": {
+        "index": "RÉDACTION PERSUASIVE",
+        "title": "Copywriting & email marketing",
+        "description": "Trouvez les bons mots pour présenter vos offres, nourrir la relation avec votre audience et construire des messages publicitaires plus convaincants."
+      }
+    },
+    "items": {
+      "audit-seo-basique": {
+        "title": "Audit SEO basique",
+        "description": "Un premier diagnostic de votre site vitrine pour repérer les principaux freins au référencement et identifier les optimisations prioritaires.",
+        "price": "80–150 €",
+        "detail": "Pour un site vitrine"
+      },
+      "audit-seo-complet": {
+        "title": "Audit SEO complet",
+        "description": "Une analyse approfondie de votre site accompagnée de recommandations et d'une stratégie SEO pour guider vos prochaines actions.",
+        "price": "200–350 €",
+        "detail": "Site & stratégie"
+      },
+      "recherche-mots-cles-page": {
+        "title": "Recherche de mots-clés",
+        "description": "Identifiez les requêtes pertinentes pour une page stratégique et structurez son contenu autour des intentions de recherche de vos clients.",
+        "price": "50–100 €",
+        "detail": "Pour une page"
+      },
+      "recherche-mots-cles-site": {
+        "title": "Stratégie de mots-clés du site",
+        "description": "Organisez les mots-clés à l'échelle de votre site pour mieux répartir les sujets et donner une direction claire à vos contenus.",
+        "price": "140–200 €",
+        "detail": "Pour tout le site"
+      },
+      "optimisation-seo-on-page": {
+        "title": "Optimisation SEO on-page",
+        "description": "Améliorez une page existante grâce au travail sur sa structure, ses titres, ses mots-clés et la pertinence de son contenu.",
+        "price": "70–100 €",
+        "detail": "Par page"
+      },
+      "redaction-article-seo-800": {
+        "title": "Article SEO — 800 mots",
+        "description": "Un article de blog optimisé pour répondre à une recherche ciblée, apporter de la valeur aux lecteurs et renforcer votre expertise.",
+        "price": "50–70 €",
+        "detail": "Environ 800 mots"
+      },
+      "redaction-article-seo-1000": {
+        "title": "Article SEO — 1 000 mots",
+        "description": "Un contenu approfondi, organisé et optimisé pour développer un sujet et répondre aux questions de votre audience.",
+        "price": "70–110 €",
+        "detail": "Environ 1 000 mots"
+      },
+      "calendrier-editorial-seo": {
+        "title": "Calendrier éditorial SEO",
+        "description": "Planifiez vos prochains contenus en fonction des sujets à traiter, des mots-clés ciblés et des priorités de votre stratégie.",
+        "price": "80–120 €",
+        "detail": "Planification sur 1 mois"
+      },
+      "campagne-netlinking": {
+        "title": "Campagne de netlinking",
+        "description": "Développez votre profil de liens entrants avec une campagne de backlinks pensée pour renforcer l'autorité de votre site.",
+        "price": "70–120 €",
+        "detail": "Par lien · 5 liens : 350–600 €"
+      },
+      "optimisation-google-business-profile": {
+        "title": "Optimisation Google Business Profile",
+        "description": "Améliorez la présentation de votre établissement et les informations de votre fiche pour soutenir votre visibilité dans les recherches locales.",
+        "price": "70–100 €",
+        "detail": "Anciennement Google My Business"
+      },
+      "page-de-vente-longue": {
+        "title": "Page de vente longue",
+        "description": "Une page détaillée pour présenter votre offre, expliquer sa valeur, répondre aux objections et accompagner la décision d'achat.",
+        "price": "300–500 €",
+        "detail": "Offre détaillée"
+      },
+      "landing-page": {
+        "title": "Landing page",
+        "description": "Une page concise et ciblée pour présenter une offre, promouvoir une campagne ou inciter les visiteurs à passer à l'action.",
+        "price": "150–300 €",
+        "detail": "Page courte"
+      },
+      "sequence-email-lancement": {
+        "title": "Séquence email de lancement",
+        "description": "Une série de cinq emails organisée pour présenter votre offre, entretenir l'intérêt et accompagner votre audience jusqu'au lancement.",
+        "price": "200–350 €",
+        "detail": "Séquence de 5 emails"
+      },
+      "email-promotionnel-storytelling": {
+        "title": "Email promotionnel ou storytelling",
+        "description": "Un email conçu pour mettre en valeur une offre, raconter une histoire de marque ou transmettre un message ciblé à vos abonnés.",
+        "price": "40–70 €",
+        "detail": "Email unique"
+      },
+      "script-publicitaire": {
+        "title": "Script publicitaire",
+        "description": "Un script conçu pour structurer votre message publicitaire, capter l'attention et présenter votre offre en vidéo ou en publicité.",
+        "price": "100–200 €",
+        "detail": "Meta Ads ou YouTube"
+      }
+    },
+    "pricingNote": {
+      "title": "Des tarifs adaptés à votre besoin",
+      "description": "Les montants présentés sont indicatifs. Le périmètre, les livrables et les besoins spécifiques de votre projet peuvent influencer le tarif final. Pour le netlinking, le montant indiqué correspond au prix par lien ; une campagne de cinq liens représente donc un budget indicatif de 350 à 600 €."
+    },
+    "finalCta": {
+      "eyebrow": "VOTRE PROJET, VOTRE STRATÉGIE",
+      "title": {
+        "line1": "Vous ne savez pas",
+        "line2": "par où commencer ?"
+      },
+      "description": "Parlons de votre site, de vos contenus et de vos objectifs. Nous pourrons identifier les prestations les plus pertinentes pour votre situation.",
+      "button": "Discuter de mon projet"
+    }
+  },
+
+  "Contact": {
+    "hero": {
+      "eyebrow": "PARLONS DE VOTRE PROJET",
+      "title": "Prêt à améliorer votre",
+      "highlight": "visibilité sur Google ?",
+      "description": "Audit SEO, stratégie de contenu, référencement local ou copywriting : parlons de vos objectifs et identifions les meilleures opportunités pour développer votre activité.",
+      "button": "Demander un devis gratuit",
+      "note": "Décrivez votre projet, nous étudierons vos besoins ensemble.",
+      "decoration": {
+        "seo": "SEO",
+        "plus": "+",
+        "strategy": "STRATÉGIE"
+      }
+    },
+    "intro": {
+      "eyebrow": "UN PREMIER ÉCHANGE",
+      "title": "Comment pouvons-nous vous aider ?",
+      "description": "Remplissez le formulaire pour présenter votre projet. Plus votre demande est précise, plus notre réponse pourra être adaptée à vos besoins."
+    },
+    "contactInfo": {
+      "email": {
+        "title": "Par e-mail",
+        "description": "Pour vos demandes de devis et questions sur nos services."
+      },
+      "phone": {
+        "title": "Par téléphone"
+      },
+      "hours": {
+        "title": "Horaires de contact",
+        "weekdays": "Lundi – vendredi",
+        "weekdaysTime": "9 h – 18 h",
+        "weekend": "Samedi – dimanche",
+        "weekendTime": "Sur rendez-vous",
+        "note": "Horaires indicatifs à adapter à votre disponibilité."
+      }
+    },
+    "social": {
+      "eyebrow": "RESTONS CONNECTÉS",
+      "title": "Retrouvez-moi sur les réseaux",
+      "description": "Conseils SEO, stratégie de contenu et actualités pour développer votre visibilité en ligne.",
+      "linkedin": {
+        "title": "LinkedIn",
+        "ariaLabel": "LinkedIn, nouvel onglet"
+      },
+      "whatsapp": {
+        "title": "WhatsApp",
+        "ariaLabel": "WhatsApp, nouvel onglet"
+      },
+      "facebook": {
+        "title": "Facebook",
+        "ariaLabel": "Facebook, nouvel onglet"
+      }
+    },
+    "trust": {
+      "title": "Un projet, une stratégie",
+      "description": "Une approche personnalisée selon votre activité, votre marché et vos objectifs."
+    },
+    "form": {
+      "eyebrow": "VOTRE PROJET",
+      "title": "Parlons de vos objectifs",
+      "requiredNote": "Les champs marqués d’un * sont obligatoires.",
+      "success": {
+        "title": "Votre demande a bien été envoyée.",
+        "description": "Merci pour votre message. Nous reviendrons vers vous dès que possible."
+      },
+      "errorMessage": "L’envoi a échoué. Réessayez dans quelques instants ou contactez-nous directement par e-mail.",
+      "errors": {
+        "generic": "Une erreur est survenue.",
+        "console": "Erreur lors de l'envoi du formulaire :"
+      },
+      "fields": {
+        "name": {
+          "label": "Nom *",
+          "placeholder": "Votre nom"
+        },
+        "firstName": {
+          "label": "Prénom *",
+          "placeholder": "Votre prénom"
+        },
+        "email": {
+          "label": "Adresse e-mail *",
+          "placeholder": "vous@entreprise.fr"
+        },
+        "phone": {
+          "label": "Numéro de téléphone *",
+          "placeholder": "+33 6 12 34 56 78"
+        },
+        "service": {
+          "label": "Service souhaité *",
+          "placeholder": "Choisir un service",
+          "options": {
+            "audit": "Audit et stratégie SEO",
+            "content": "Contenu et rédaction SEO",
+            "netlinking": "Netlinking et SEO local",
+            "landingPage": "Landing page et page de vente",
+            "copywriting": "Copywriting et e-mail marketing",
+            "support": "Accompagnement SEO",
+            "other": "Autre demande"
+          }
+        },
+        "budget": {
+          "label": "Budget estimé",
+          "options": {
+            "undefined": "À définir",
+            "under150": "Moins de 150 €",
+            "150to350": "150–350 €",
+            "350to700": "350–700 €",
+            "700to1500": "700–1 500 €",
+            "over1500": "Plus de 1 500 €"
+          }
+        },
+        "message": {
+          "label": "Parlez-nous de votre projet *",
+          "placeholder": "Vos objectifs, vos difficultés actuelles, votre site web..."
+        },
+        "website": {
+          "label": "Ne pas remplir"
+        }
+      },
+      "privacyConsent": {
+        "beforeLink": "J’ai lu et j’accepte la",
+        "link": "politique de confidentialité"
+      },
+      "submit": {
+        "loading": "Envoi en cours...",
+        "label": "Envoyer ma demande"
+      },
+      "privacyNote": "Vos informations sont utilisées pour traiter votre demande. Consultez notre politique de confidentialité pour connaître les modalités de traitement de vos données et vos droits."
+    },
+    "map": {
+      "eyebrow": "NOUS TROUVER",
+      "title": "Restons en contact",
+      "description": "Échangeons sur votre stratégie SEO et les leviers de croissance adaptés à votre activité.",
+      "iframeTitle": "Localisation de Impact Words sur Google Maps"
+    },
+    "finalCta": {
+      "eyebrow": "PASSEZ À L’ACTION",
+      "title": "Faisons de votre visibilité un véritable levier de croissance.",
+      "description": "Présentez-nous votre projet pour identifier les prochaines actions SEO et éditoriales à mettre en place.",
+      "button": "Parler de mon projet"
+    }
+  },
+
+  "Header": {
+    "logoAriaLabel": "Impact Words — accueil",
+    "desktopNavigationLabel": "Navigation principale",
+    "mobileNavigationLabel": "Navigation mobile",
+    "links": {
+      "services": "Services",
+      "contact": "Horaires & Contact"
+    },
+    "cta": "Parlons de votre projet",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "language": "Langue",
+    "languageSwitcherLabel": "Choisir la langue",
+    "languages": {
+      "french": "Français",
+      "english": "English"
+    }
+  },
+
+  "Footer": {
+    "brand": {
+      "homeAriaLabel": "Impact.Words — accueil",
+      "description": "Le digital pensé avec intention. Des expériences claires, soignées et conçues pour faire avancer votre activité."
+    },
+    "sections": {
+      "explore": "Explorer",
+      "contact": "Contact",
+      "availability": "Disponibilité"
+    },
+    "navigation": {
+      "servicesAriaLabel": "Services",
+      "legalAriaLabel": "Informations légales"
+    },
+    "services": {
+      "seoStrategy": "Audit & stratégie SEO",
+      "seoContent": "Contenu SEO",
+      "netlinking": "Netlinking & référencement local",
+      "landingPages": "Pages de vente & landing pages",
+      "copywriting": "Copywriting & email marketing"
+    },
+    "contact": {
+      "email": "E-mail",
+      "phone": "Téléphone"
+    },
+    "hours": {
+      "weekdays": {
+        "days": "Lundi — Vendredi",
+        "time": "09h00 — 18h00"
+      },
+      "weekend": {
+        "days": "Samedi — Dimanche",
+        "time": "Sur rendez-vous"
+      },
+      "note": "Un besoin spécifique ? Contactez-nous par e-mail."
+    },
+    "copyright": "Impact.Words. Tous droits réservés.",
+    "legal": {
+      "legalNotice": "Mentions légales",
+      "privacy": "Confidentialité"
+    },
+    "backToTop": "Retour en haut"
+  },
+
+  "LegalNotices": {
+    "metadata": {
+      "title": "Mentions légales | Impact Words",
+      "description": "Consultez les mentions légales du site Impact Words : éditeur, hébergement, propriété intellectuelle et informations réglementaires."
+    },
+    "hero": {
+      "eyebrow": "INFORMATIONS JURIDIQUES",
+      "title": "Mentions",
+      "titleAccent": "légales.",
+      "intro": "Retrouvez ici les informations relatives à l’éditeur du site {company}, à son hébergement et aux conditions générales d’utilisation de ses contenus.",
+      "updated": "Dernière mise à jour : {date}"
+    },
+    "navigation": {
+      "tocAriaLabel": "Sommaire des mentions légales",
+      "tocTitle": "Sur cette page"
+    },
+    "fields": {
+      "fullName": "Nom et prénom",
+      "tradeName": "Nom commercial",
+      "legalStatus": "Statut juridique",
+      "businessAddress": "Adresse professionnelle",
+      "siren": "SIREN",
+      "siret": "SIRET",
+      "vatNumber": "Numéro de TVA intracommunautaire",
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "publicationDirector": "Directeur de la publication",
+      "host": "Hébergeur",
+      "address": "Adresse",
+      "website": "Site web",
+      "contact": "Contact"
+    },
+    "sections": {
+      "publisher": {
+        "title": "Éditeur du site",
+        "intro": "Le présent site est édité par l’entreprise individuelle exerçant sous le nom commercial {company}."
+      },
+      "hosting": {
+        "title": "Hébergement",
+        "intro": "Le site est hébergé par la société suivante :"
+      },
+      "purpose": {
+        "title": "Objet du site",
+        "content": "Le site Impact Words présente les activités, les services et les prestations proposés par l’entreprise. Il permet également aux visiteurs de contacter l’entreprise et de transmettre des demandes de devis."
+      },
+      "intellectualProperty": {
+        "title": "Propriété intellectuelle",
+        "paragraph1": "Les contenus du site, notamment les textes, éléments graphiques, logos, visuels et éléments de mise en page, sont protégés par les dispositions applicables en matière de propriété intellectuelle, sous réserve des droits détenus par des tiers.",
+        "paragraph2": "Toute reproduction, représentation ou exploitation de ces contenus sans autorisation préalable du titulaire des droits concernés est interdite, sauf exceptions prévues par la loi."
+      },
+      "liability": {
+        "title": "Responsabilité",
+        "content": "Impact Words s’efforce de publier des informations exactes et à jour. Toutefois, l’entreprise ne garantit pas que toutes les informations soient exemptes d’erreurs ou toujours actualisées. L’utilisateur est invité à vérifier les informations utiles avant de prendre une décision sur leur fondement."
+      },
+      "externalLinks": {
+        "title": "Liens externes",
+        "content": "Le site peut contenir des liens vers des sites tiers. Impact Words n’exerce pas de contrôle sur ces sites et ne peut être tenu responsable de leurs contenus, de leur disponibilité ou de leurs pratiques."
+      },
+      "personalData": {
+        "title": "Données personnelles",
+        "paragraph1": "Les informations transmises par l’intermédiaire des formulaires de contact ou de demande de devis peuvent être utilisées pour répondre aux demandes reçues et assurer le suivi des échanges commerciaux.",
+        "paragraph2": "Les informations détaillées concernant les données collectées, les finalités et bases légales des traitements, les durées de conservation, les destinataires et les droits des personnes sont présentées dans notre politique de confidentialité.",
+        "privacyLink": "Consulter la politique de confidentialité",
+        "contactIntro": "Pour toute question concernant les données personnelles :"
+      },
+      "cookies": {
+        "title": "Cookies et traceurs",
+        "content": "Le site peut utiliser des cookies ou autres traceurs nécessaires à son fonctionnement ou répondant à d’autres finalités, selon les outils effectivement installés. Lorsque la réglementation l’exige, le consentement des visiteurs est recueilli avant le dépôt des traceurs concernés. Les informations relatives aux outils réellement utilisés et aux modalités de gestion des préférences doivent être accessibles depuis le site."
+      },
+      "applicableLaw": {
+        "title": "Droit applicable",
+        "content": "Les présentes mentions légales sont soumises au droit français, sous réserve des règles impératives applicables. En cas de différend, les règles de compétence juridictionnelle applicables déterminent la juridiction compétente."
+      }
+    },
+    "footer": {
+      "question": "Une question concernant le site ?",
+      "contactLink": "Nous contacter"
+    }
+  },
+
+  "PrivacyPolicy": {
+    "metadata": {
+      "title": "Politique de confidentialité | Impact Words",
+      "description": "Découvrez comment Impact Words collecte, utilise, conserve et protège les données personnelles transmises via son site et ses formulaires."
+    },
+    "hero": {
+      "eyebrow": "CONFIDENTIALITÉ & DONNÉES PERSONNELLES",
+      "title": "Politique de",
+      "titleAccent": "confidentialité.",
+      "intro": "La transparence est essentielle. Cette page explique comment {company} traite les données personnelles lorsque vous consultez le site ou nous adressez une demande.",
+      "updated": "Dernière mise à jour : {date}"
+    },
+    "navigation": {
+      "tocAriaLabel": "Sommaire de la politique de confidentialité",
+      "tocTitle": "Sur cette page"
+    },
+    "fields": {
+      "controller": "Responsable du traitement",
+      "address": "Adresse professionnelle",
+      "dataContact": "Contact relatif aux données"
+    },
+    "sections": {
+      "controller": {
+        "title": "Qui est responsable de vos données ?",
+        "intro": "Le responsable des traitements de données personnelles décrits dans cette politique est l’entrepreneur individuel exerçant sous le nom commercial {company}.",
+        "legalIntro": "Les informations légales relatives à l’éditeur du site sont disponibles sur la page",
+        "legalLink": "Mentions légales"
+      },
+      "data": {
+        "title": "Quelles données sont collectées ?",
+        "intro": "Les données collectées dépendent des informations que vous renseignez volontairement dans les formulaires ou que vous transmettez lors de vos échanges avec Impact Words.",
+        "items": {
+          "identity": {
+            "label": "Données d’identification :",
+            "text": "nom et prénom."
+          },
+          "contact": {
+            "label": "Coordonnées :",
+            "text": "adresse e-mail, numéro de téléphone si demandé, et toute autre coordonnée que vous choisissez de communiquer."
+          },
+          "project": {
+            "label": "Informations sur votre projet :",
+            "text": "objet de la demande, besoins exprimés, description du projet, budget ou délai si ces éléments sont demandés."
+          },
+          "exchanges": {
+            "label": "Contenu des échanges :",
+            "text": "messages envoyés et réponses nécessaires au suivi de la demande."
+          },
+          "technical": {
+            "label": "Données techniques :",
+            "text": "certaines informations techniques de connexion ou journaux de sécurité peuvent être traités par l’hébergement ou les services techniques utilisés, selon leur configuration."
+          }
+        },
+        "warning": "Ne transmettez pas de données sensibles ni d’informations confidentielles qui ne sont pas nécessaires au traitement de votre demande."
+      },
+      "purposes": {
+        "title": "Pourquoi utilisons-nous vos données ?",
+        "intro": "Les données sont traitées pour les finalités suivantes :",
+        "items": {
+          "contact": "recevoir et traiter vos messages de contact ;",
+          "quote": "comprendre votre besoin et préparer une réponse ou un devis ;",
+          "followUp": "échanger avec vous et assurer le suivi de votre demande ;",
+          "contract": "prendre les mesures précontractuelles demandées par vos soins et, si vous donnez suite à une proposition, préparer ou exécuter une relation contractuelle ;",
+          "security": "assurer la sécurité, le bon fonctionnement et la maintenance du site, lorsque des données techniques sont traitées à cette fin ;",
+          "legal": "répondre aux obligations légales et préserver les droits d’Impact Words en cas de différend, lorsque cela est nécessaire."
+        },
+        "outro": "Les données ne doivent pas être réutilisées pour une finalité incompatible avec celle pour laquelle elles ont été collectées. Toute utilisation supplémentaire nécessitant une information ou une base légale distincte fera l’objet des mesures appropriées."
+      },
+      "legalBases": {
+        "title": "Quelles sont les bases légales ?",
+        "intro": "Selon le traitement concerné, les données sont utilisées sur l’une des bases légales suivantes :",
+        "items": {
+          "precontractual": {
+            "label": "Mesures précontractuelles :",
+            "text": "lorsque vous demandez un devis ou souhaitez engager des échanges en vue d’une prestation, les données nécessaires sont traitées pour donner suite à votre demande."
+          },
+          "legitimateInterest": {
+            "label": "Intérêt légitime :",
+            "text": "certaines données peuvent être traitées pour répondre à un message général, assurer la sécurité du site, prévenir les abus ou gérer une réclamation, après appréciation de vos droits et intérêts."
+          },
+          "legalObligation": {
+            "label": "Obligation légale :",
+            "text": "lorsque des textes imposent de conserver ou de communiquer certaines informations."
+          },
+          "consent": {
+            "label": "Consentement :",
+            "text": "lorsque celui-ci est requis, notamment pour certains cookies ou traceurs non essentiels, ou pour une autre utilisation qui nécessite votre accord."
+          }
+        },
+        "outro": "Vous pouvez refuser de fournir certaines informations. Toutefois, si elles sont nécessaires pour répondre à votre demande ou préparer un devis, ce refus peut empêcher son traitement."
+      },
+      "retention": {
+        "title": "Combien de temps conservons-nous les données ?",
+        "intro": "Les données sont conservées uniquement pendant une durée adaptée à leur finalité, sous réserve des obligations légales applicables.",
+        "contactTitle": "Contact et demande de devis",
+        "clientTitle": "Client et documents contractuels",
+        "clientText": "Si la demande aboutit à une prestation, certaines données peuvent être conservées pendant la relation contractuelle puis archivées pour la durée imposée par les obligations légales, comptables ou fiscales et pour la défense des droits en justice. Les durées varient selon le document concerné.",
+        "technicalTitle": "Données techniques et journaux",
+        "technicalText": "Leur durée dépend de l’hébergeur, des outils de sécurité et de la configuration effective. Elle doit être définie en fonction des besoins de sécurité et des obligations applicables.",
+        "outro": "À l’issue de la période applicable, les données sont supprimées ou anonymisées, sauf si une conservation supplémentaire est nécessaire ou imposée par la loi."
+      },
+      "recipients": {
+        "title": "Qui peut accéder aux données ?",
+        "intro": "Les données sont accessibles aux seules personnes qui en ont besoin pour les finalités décrites dans cette politique.",
+        "items": {
+          "company": {
+            "label": "Impact Words :",
+            "text": "pour traiter les demandes, communiquer avec vous et assurer le suivi commercial."
+          },
+          "providers": {
+            "label": "Prestataires techniques :",
+            "text": "les fournisseurs effectivement utilisés pour l’hébergement, la transmission des formulaires, la messagerie, la maintenance ou la sécurité du site, dans la limite de leurs missions."
+          },
+          "authorities": {
+            "label": "Autorités compétentes :",
+            "text": "lorsqu’une obligation légale ou une décision exécutoire l’impose."
+          }
+        },
+        "outro": "Les prestataires concernés doivent être identifiés selon la configuration réelle du site. Les données ne sont pas vendues à des tiers.",
+        "confirmationLabel": "Destinataires à confirmer :"
+      },
+      "transfers": {
+        "title": "Hébergement et transferts hors de l’Union européenne",
+        "paragraph1": "Le site est hébergé par Vercel. Selon la configuration technique, les services activés et les prestataires associés, certaines données techniques ou données transmises par le site peuvent être traitées depuis des pays situés hors de l’Union européenne, notamment les États-Unis.",
+        "paragraph2": "Lorsqu’un transfert de données personnelles hors de l’Espace économique européen a lieu, il doit reposer sur un mécanisme conforme au RGPD, par exemple une décision d’adéquation applicable ou des garanties contractuelles appropriées, selon le transfert et le prestataire concernés.",
+        "paragraph3": "Les modalités précises doivent être vérifiées dans les contrats, paramètres de déploiement et documents de confidentialité des fournisseurs effectivement utilisés. Les informations générales sur l’hébergeur figurent dans les",
+        "legalLink": "mentions légales"
+      },
+      "rights": {
+        "title": "Quels sont vos droits ?",
+        "intro": "Dans les conditions et limites prévues par la réglementation, vous pouvez notamment demander :",
+        "items": {
+          "access": "l’accès aux données personnelles vous concernant ;",
+          "rectification": "la rectification des données inexactes ou incomplètes ;",
+          "erasure": "l’effacement des données lorsque les conditions sont réunies ;",
+          "restriction": "la limitation de certains traitements ;",
+          "objection": "l’opposition à un traitement fondé sur l’intérêt légitime, pour des raisons tenant à votre situation particulière ;",
+          "portability": "la portabilité des données lorsque ce droit est applicable ;",
+          "withdrawal": "le retrait de votre consentement à tout moment lorsque le traitement repose sur celui-ci, sans remettre en cause la licéité du traitement antérieur au retrait."
+        },
+        "contactIntro": "Pour exercer vos droits, écrivez à",
+        "contactOutro": "en précisant votre demande. Des informations complémentaires peuvent être demandées si cela est nécessaire pour vérifier votre identité, de manière proportionnée.",
+        "responseTime": "Une réponse est en principe apportée dans un délai d’un mois. Ce délai peut être prolongé dans les conditions prévues par le RGPD, notamment en cas de demande complexe ou de demandes nombreuses.",
+        "complaintIntro": "Si vous estimez, après nous avoir contactés, que vos droits ne sont pas respectés, vous pouvez introduire une réclamation auprès de la Commission nationale de l’informatique et des libertés (CNIL) via",
+        "cnilLink": "son site officiel"
+      },
+      "security": {
+        "title": "Sécurité des données",
+        "content": "Impact Words met en œuvre, dans la mesure adaptée à ses activités, des mesures techniques et organisationnelles destinées à protéger les données contre la perte, l’altération, la divulgation ou l’accès non autorisé. Aucun système de transmission ou de stockage ne pouvant garantir une sécurité absolue, les mesures sont adaptées aux risques et aux outils effectivement utilisés."
+      },
+      "cookies": {
+        "title": "Cookies et autres traceurs",
+        "paragraph1": "Des cookies ou autres traceurs peuvent être utilisés pour assurer certaines fonctionnalités, mémoriser des préférences, protéger le site ou mesurer son audience. Les outils réellement utilisés doivent être vérifiés avant publication de cette politique.",
+        "paragraph2": "Les traceurs strictement nécessaires au service demandé peuvent être soumis à un régime différent de celui des traceurs non essentiels. Lorsque le consentement est requis, les traceurs concernés ne doivent pas être déposés avant son obtention.",
+        "paragraph3": "Si le site utilise un outil de gestion du consentement, vous pourrez modifier vos choix à partir du mécanisme de gestion des cookies mis à disposition sur le site. Ce mécanisme doit être réellement installé et fonctionnel pour être mentionné comme disponible."
+      },
+      "changes": {
+        "title": "Modification de la politique",
+        "content": "Cette politique peut être mise à jour pour refléter une évolution des traitements, des outils utilisés ou des obligations applicables. La date de dernière mise à jour figure en haut de cette page. En cas de changement substantiel nécessitant une information spécifique, les personnes concernées seront informées selon les modalités appropriées."
+      }
+    },
+    "footer": {
+      "title": "Une question sur vos données personnelles ?",
+      "text": "Contactez Impact Words pour exercer vos droits ou obtenir des précisions sur un traitement.",
+      "contactLink": "Nous contacter",
+      "legalIntro": "Pour les informations concernant l’éditeur et l’hébergement, consultez les",
+      "legalLink": "mentions légales"
+    }
+  }
+}

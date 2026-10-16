@@ -1,0 +1,861 @@
+{
+  "Home": {
+    "hero": {
+      "eyebrow": "SEO, CONTENT & COPYWRITING",
+      "title": {
+        "line1": "More visibility,",
+        "line2": "more customers.",
+        "line3": "Built to last."
+      },
+      "description": "Grow your visibility on Google with an SEO strategy tailored to your business. From SEO audits and content optimisation to SEO copywriting and persuasive messaging, our services are designed to attract qualified audiences and showcase the value of your offering.",
+      "actions": {
+        "services": "Explore our services",
+        "portfolio": "View our projects"
+      },
+      "trust": {
+        "title": "SEO that drives your business forward",
+        "description": "Strategy, content and conversion."
+      },
+      "visual": {
+        "ariaLabel": "Illustration of an SEO dashboard showing organic traffic growth and a search engine optimisation strategy",
+        "brand": "Impact.Words",
+        "search": "Your visibility on Google",
+        "organicTraffic": "ORGANIC TRAFFIC",
+        "trafficStatus": "Trending upwards",
+        "seoBadge": "↗ SEO",
+        "chartLabels": {
+          "strategy": "Strategy",
+          "content": "Content",
+          "optimization": "Optimisation",
+          "tracking": "Tracking"
+        },
+        "trafficGoal": {
+          "label": "Goal",
+          "value": "More qualified traffic"
+        },
+        "visibility": {
+          "label": "Your visibility",
+          "value": "A targeted strategy"
+        },
+        "caption": "The right strategy changes your trajectory."
+      },
+      "scroll": {
+        "ariaLabel": "Scroll to services",
+        "label": "DISCOVER"
+      }
+    },
+    "services": {
+      "eyebrow": "OUR EXPERTISE",
+      "title": {
+        "line1": "SEO services",
+        "line2": "designed to fuel",
+        "highlight": "your growth."
+      },
+      "intro": "From SEO audits and content writing to local SEO and sales pages, we help you strengthen your online presence and present your offering more effectively to prospective customers.",
+      "contactLink": "Let's discuss your goals",
+      "items": {
+        "01": {
+          "title": "SEO Audit & Strategy",
+          "description": "Analyse your website, identify barriers to organic search visibility and develop an SEO strategy tailored to your goals.",
+          "tags": ["SEO Audit", "Keywords", "Strategy"],
+          "ariaLabel": "Discuss SEO Audit & Strategy"
+        },
+        "02": {
+          "title": "SEO Content",
+          "description": "Improve your visibility on Google with optimised content, relevant blog articles and a well-structured editorial calendar.",
+          "tags": ["SEO Writing", "Optimisation", "Content"],
+          "ariaLabel": "Discuss SEO Content"
+        },
+        "03": {
+          "title": "Link Building & Local SEO",
+          "description": "Strengthen your website's authority with backlinks and increase your local visibility with an optimised Google Business Profile.",
+          "tags": ["Backlinks", "Google", "Local SEO"],
+          "ariaLabel": "Discuss Link Building & Local SEO"
+        },
+        "04": {
+          "title": "Copywriting & Conversion",
+          "description": "Turn visitors into leads and customers with persuasive sales pages, email sequences and advertising scripts.",
+          "tags": ["Sales Pages", "Email Marketing", "Advertising"],
+          "ariaLabel": "Discuss Copywriting & Conversion"
+        }
+      }
+    },
+    "approach": {
+      "ariaLabel": "Our SEO approach",
+      "eyebrow": "OUR APPROACH",
+      "title": {
+        "line1": "Great work",
+        "line2": "starts with",
+        "highlight": "the right method."
+      },
+      "description": "Effective SEO relies on sound analysis, relevant content and consistent optimisation aligned with your customers' search behaviour. Every action should serve a clear purpose.",
+      "facts": {
+        "01": {
+          "title": "Understand",
+          "description": "Your business, your market and what your customers are searching for."
+        },
+        "02": {
+          "title": "Prioritise",
+          "description": "The most relevant SEO improvements and content opportunities."
+        },
+        "03": {
+          "title": "Improve",
+          "description": "Your visibility and content as search trends and needs evolve."
+        }
+      }
+    },
+    "method": {
+      "eyebrow": "HOW WE WORK",
+      "title": {
+        "line1": "A clear process,",
+        "line2": "practical action."
+      },
+      "description": "From SEO audits to content optimisation, every step helps build a stronger digital presence that is better aligned with your goals.",
+      "steps": {
+        "01": {
+          "title": "Audit & Analysis",
+          "description": "We analyse your website, keywords, market and opportunities to improve your organic search performance."
+        },
+        "02": {
+          "title": "Tailored Strategy",
+          "description": "We define SEO priorities, identify the content to create and recommend actions suited to your business and goals."
+        },
+        "03": {
+          "title": "Optimisation & Writing",
+          "description": "We optimise your pages, write SEO content and craft copy designed to persuade your audience."
+        },
+        "04": {
+          "title": "Monitoring & Optimisation",
+          "description": "We identify opportunities to improve your visibility, content and performance over time."
+        }
+      }
+    },
+    "portfolio": {
+      "eyebrow": "SELECTED PROJECTS",
+      "title": {
+        "line1": "Different worlds,",
+        "line2": "the same high standards."
+      },
+      "description": "Explore a selection of digital projects and the worlds behind them.",
+
+      "projects": {
+        "01": {
+          "name": "CDO Multiservices",
+          "category": "Website · Services",
+          "initials": "CDO",
+          "description": "A clear presentation of services and business activities."
+        },
+        "02": {
+          "name": "Simplitech",
+          "category": "Website · Services",
+          "initials": "S.",
+          "description": "Complete copywriting for the website."
+        },
+        "03": {
+          "name": "Haumana Bien-Être",
+          "category": "Website · Wellness",
+          "initials": "HBE",
+          "description": "A calming digital experience that is easy to navigate."
+        }
+      }
+    },
+    "contact": {
+      "eyebrow": "YOUR NEXT STEP",
+      "title": {
+        "line1": "What if we helped",
+        "line2": "your visibility grow?"
+      },
+      "description": "Need an SEO audit, a content strategy or more persuasive website copy? Let's discuss your business and identify the services best suited to your goals.",
+      "button": "Let's discuss my project",
+      "artwork": {
+        "label": "GROWTH / 01"
+      }
+    },
+    "benefits": {
+      "eyebrow": "WHY CHOOSE US",
+      "title": {
+        "line1": "Comprehensive",
+        "line2": "expertise to support",
+        "line3": "your",
+        "highlight": "ambitions."
+      },
+      "description": "SEO audits, web content writing, local SEO and copywriting: complementary services designed to improve your visibility, structure your content and communicate the value of your offering clearly.",
+      "button": "Let's discuss your project",
+      "items": {
+        "01": {
+          "title": "A Tailored SEO Strategy",
+          "description": "Every recommendation takes your business, market, keywords and goals into account."
+        },
+        "02": {
+          "title": "Sustainable Visibility",
+          "description": "We focus on organic search strategies built on meaningful optimisation and genuinely useful content."
+        },
+        "03": {
+          "title": "Transparent Services",
+          "description": "You know which actions are recommended, what deliverables to expect and which digital strategy priorities come first."
+        },
+        "04": {
+          "title": "Content That Converts",
+          "description": "From SEO content to sales pages and emails, every piece of copy serves a clear purpose."
+        }
+      }
+    },
+    "finalCta": {
+      "eyebrow": "READY TO MOVE FORWARD?",
+      "title": {
+        "line1": "Your visibility",
+        "line2": "starts here."
+      },
+      "button": "Let's discuss your goals"
+    }
+  },
+
+  "Services": {
+    "hero": {
+      "eyebrow": "THE IMPACT.WORDS EXPERTISE",
+      "title": {
+        "line1": "The right words.",
+        "line2": "The right strategy.",
+        "line3": "The right impact."
+      },
+      "description": "SEO audits, web content writing, local SEO, sales pages and copywriting: explore our services to improve your online visibility and showcase your offering more effectively.",
+      "actions": {
+        "explore": "Explore our services",
+        "contact": "Let's discuss your project"
+      },
+      "meta": {
+        "categories": "05 categories",
+        "services": "15 services",
+        "offers": "Tailored solutions"
+      },
+      "visual": {
+        "eyebrow": "YOUR DIGITAL ECOSYSTEM",
+        "brand": "IMPACT.WORDS",
+        "coreTitle": "Visibility",
+        "coreAccent": "+ relevance",
+        "caption": "A strategy built around your business.",
+        "labels": {
+          "audit": "SEO Audit",
+          "content": "Content",
+          "conversion": "Conversion",
+          "visibility": "Visibility"
+        },
+        "steps": {
+          "analyze": "ANALYSE",
+          "optimize": "OPTIMISE",
+          "convert": "CONVERT"
+        }
+      },
+      "scroll": "SCROLL TO EXPLORE"
+    },
+    "intro": {
+      "eyebrow": "A COMPLEMENTARY APPROACH",
+      "title": {
+        "line1": "Every service is designed",
+        "line2": "to achieve a",
+        "highlight": "specific goal."
+      },
+      "description": "Looking to improve your organic search rankings, publish more targeted content or present your offering more persuasively? Explore our service categories and choose the support that best fits your needs."
+    },
+    "navigation": {
+      "ariaLabel": "Service categories"
+    },
+    "catalogue": {
+      "ariaLabel": "Service catalogue",
+      "serviceCount": "{count, plural, one {# SERVICE} other {# SERVICES}}",
+      "indicativePrice": "Indicative price",
+      "startingAt": "STARTING AT",
+      "comingSoon": "Coming soon",
+      "discoverService": "Discover {service}",
+      "unavailableService": "{service}: coming soon"
+    },
+    "categories": {
+      "strategie-seo": {
+        "index": "STRATEGY",
+        "title": "SEO Audit & Strategy",
+        "description": "Understand your current search visibility, identify opportunities and build an organic search strategy tailored to your business."
+      },
+      "contenu-seo": {
+        "index": "CONTENT",
+        "title": "Content & SEO Writing",
+        "description": "Useful, well-structured pages and articles built around your audience's searches to strengthen your visibility in search engines."
+      },
+      "netlinking-local": {
+        "index": "VISIBILITY",
+        "title": "Link Building & Local SEO",
+        "description": "Build your website's authority and help people discover your services, particularly those searching within your local area."
+      },
+      "pages-de-vente": {
+        "index": "CONVERSION",
+        "title": "Sales Pages & Landing Pages",
+        "description": "Structure your message, showcase your offering and guide visitors towards a clear action with conversion-focused copy."
+      },
+      "copywriting-email": {
+        "index": "PERSUASIVE WRITING",
+        "title": "Copywriting & Email Marketing",
+        "description": "Find the right words to present your offers, nurture relationships with your audience and create more persuasive advertising messages."
+      }
+    },
+    "items": {
+      "audit-seo-basique": {
+        "title": "Basic SEO Audit",
+        "description": "An initial assessment of your business website to identify the main barriers to organic visibility and highlight priority improvements.",
+        "price": "€80–150",
+        "detail": "For a business website"
+      },
+      "audit-seo-complet": {
+        "title": "Comprehensive SEO Audit",
+        "description": "An in-depth analysis of your website, complete with recommendations and an SEO strategy to guide your next steps.",
+        "price": "€200–350",
+        "detail": "Website & strategy"
+      },
+      "recherche-mots-cles-page": {
+        "title": "Keyword Research",
+        "description": "Identify relevant search queries for a key page and structure its content around your customers' search intent.",
+        "price": "€50–100",
+        "detail": "Per page"
+      },
+      "recherche-mots-cles-site": {
+        "title": "Website Keyword Strategy",
+        "description": "Organise keywords across your website to distribute topics effectively and give your content a clear direction.",
+        "price": "€140–200",
+        "detail": "Entire website"
+      },
+      "optimisation-seo-on-page": {
+        "title": "On-Page SEO Optimisation",
+        "description": "Improve an existing page by refining its structure, headings, keywords and content relevance.",
+        "price": "€70–100",
+        "detail": "Per page"
+      },
+      "redaction-article-seo-800": {
+        "title": "SEO Article — 800 Words",
+        "description": "A search-optimised blog article that addresses a specific query, delivers value to readers and reinforces your expertise.",
+        "price": "€50–70",
+        "detail": "Approximately 800 words"
+      },
+      "redaction-article-seo-1000": {
+        "title": "SEO Article — 1,000 Words",
+        "description": "In-depth, well-structured and optimised content designed to explore a topic and answer your audience's questions.",
+        "price": "€70–110",
+        "detail": "Approximately 1,000 words"
+      },
+      "calendrier-editorial-seo": {
+        "title": "SEO Editorial Calendar",
+        "description": "Plan your upcoming content around relevant topics, target keywords and the priorities of your SEO strategy.",
+        "price": "€80–120",
+        "detail": "One-month content plan"
+      },
+      "campagne-netlinking": {
+        "title": "Link-Building Campaign",
+        "description": "Strengthen your backlink profile with a link-building campaign designed to increase your website's authority.",
+        "price": "€70–120",
+        "detail": "Per link · 5 links: €350–600"
+      },
+      "optimisation-google-business-profile": {
+        "title": "Google Business Profile Optimisation",
+        "description": "Improve your business listing and its information to strengthen your visibility in local search results.",
+        "price": "€70–100",
+        "detail": "Previously known as Google My Business"
+      },
+      "page-de-vente-longue": {
+        "title": "Long-Form Sales Page",
+        "description": "A detailed page that presents your offer, explains its value, addresses objections and supports the buying decision.",
+        "price": "€300–500",
+        "detail": "Detailed offer"
+      },
+      "landing-page": {
+        "title": "Landing Page",
+        "description": "A concise, targeted page designed to present an offer, promote a campaign or encourage visitors to take action.",
+        "price": "€150–300",
+        "detail": "Short-form page"
+      },
+      "sequence-email-lancement": {
+        "title": "Product Launch Email Sequence",
+        "description": "A series of five emails designed to introduce your offer, build interest and guide your audience towards launch day.",
+        "price": "€200–350",
+        "detail": "5-email sequence"
+      },
+      "email-promotionnel-storytelling": {
+        "title": "Promotional or Storytelling Email",
+        "description": "An email crafted to showcase an offer, tell your brand's story or deliver a targeted message to your subscribers.",
+        "price": "€40–70",
+        "detail": "Single email"
+      },
+      "script-publicitaire": {
+        "title": "Advertising Script",
+        "description": "A script designed to structure your advertising message, capture attention and present your offer in a video or ad.",
+        "price": "€100–200",
+        "detail": "Meta Ads or YouTube"
+      }
+    },
+    "pricingNote": {
+      "title": "Pricing tailored to your needs",
+      "description": "All prices shown are indicative. The final price may vary depending on the scope, deliverables and specific requirements of your project. For link building, the listed amount is the price per link; a five-link campaign therefore has an indicative budget of €350 to €600."
+    },
+    "finalCta": {
+      "eyebrow": "YOUR PROJECT, YOUR STRATEGY",
+      "title": {
+        "line1": "Not sure where",
+        "line2": "to start?"
+      },
+      "description": "Let's discuss your website, your content and your goals. Together, we can identify the services best suited to your situation.",
+      "button": "Let's discuss my project"
+    }
+  },
+
+  "Contact": {
+    "hero": {
+      "eyebrow": "LET'S DISCUSS YOUR PROJECT",
+      "title": "Ready to improve your",
+      "highlight": "visibility on Google?",
+      "description": "SEO audits, content strategy, local SEO or copywriting: let's discuss your goals and identify the best opportunities to grow your business.",
+      "button": "Request a free quote",
+      "note": "Tell us about your project, and we'll assess your needs together.",
+      "decoration": {
+        "seo": "SEO",
+        "plus": "+",
+        "strategy": "STRATEGY"
+      }
+    },
+    "intro": {
+      "eyebrow": "LET'S START A CONVERSATION",
+      "title": "How can we help you?",
+      "description": "Fill in the form to tell us about your project. The more specific your request, the better we can tailor our response to your needs."
+    },
+    "contactInfo": {
+      "email": {
+        "title": "By email",
+        "description": "For quote requests and questions about our services."
+      },
+      "phone": {
+        "title": "By phone"
+      },
+      "hours": {
+        "title": "Contact hours",
+        "weekdays": "Monday – Friday",
+        "weekdaysTime": "9 am – 6 pm",
+        "weekend": "Saturday – Sunday",
+        "weekendTime": "By appointment",
+        "note": "Indicative hours; please adjust to your availability."
+      }
+    },
+    "social": {
+      "eyebrow": "LET'S STAY CONNECTED",
+      "title": "Connect with me on social media",
+      "description": "SEO tips, content strategy and updates to help you grow your online visibility.",
+      "linkedin": {
+        "title": "LinkedIn",
+        "ariaLabel": "LinkedIn, opens in a new tab"
+      },
+      "whatsapp": {
+        "title": "WhatsApp",
+        "ariaLabel": "WhatsApp, opens in a new tab"
+      },
+      "facebook": {
+        "title": "Facebook",
+        "ariaLabel": "Facebook, opens in a new tab"
+      }
+    },
+    "trust": {
+      "title": "One project, one strategy",
+      "description": "A tailored approach based on your business, market and goals."
+    },
+    "form": {
+      "eyebrow": "YOUR PROJECT",
+      "title": "Let's discuss your goals",
+      "requiredNote": "Fields marked with * are required.",
+      "success": {
+        "title": "Your request has been sent successfully.",
+        "description": "Thank you for your message. We will get back to you as soon as possible."
+      },
+      "errorMessage": "Your message could not be sent. Please try again shortly or contact us directly by email.",
+      "errors": {
+        "generic": "An error occurred.",
+        "console": "Error submitting the form:"
+      },
+      "fields": {
+        "name": {
+          "label": "Last name *",
+          "placeholder": "Your last name"
+        },
+        "firstName": {
+          "label": "First name *",
+          "placeholder": "Your first name"
+        },
+        "email": {
+          "label": "Email address *",
+          "placeholder": "you@company.com"
+        },
+        "phone": {
+          "label": "Phone number *",
+          "placeholder": "+33 6 12 34 56 78"
+        },
+        "service": {
+          "label": "Service required *",
+          "placeholder": "Select a service",
+          "options": {
+            "audit": "SEO audit and strategy",
+            "content": "SEO content and writing",
+            "netlinking": "Link building and local SEO",
+            "landingPage": "Landing page and sales page",
+            "copywriting": "Copywriting and email marketing",
+            "support": "SEO support",
+            "other": "Other enquiry"
+          }
+        },
+        "budget": {
+          "label": "Estimated budget",
+          "options": {
+            "undefined": "To be determined",
+            "under150": "Under €150",
+            "150to350": "€150–350",
+            "350to700": "€350–700",
+            "700to1500": "€700–1,500",
+            "over1500": "Over €1,500"
+          }
+        },
+        "message": {
+          "label": "Tell us about your project *",
+          "placeholder": "Your goals, current challenges, website..."
+        },
+        "website": {
+          "label": "Leave this field blank"
+        }
+      },
+      "privacyConsent": {
+        "beforeLink": "I have read and agree to the",
+        "link": "Privacy Policy"
+      },
+      "submit": {
+        "loading": "Sending...",
+        "label": "Submit my request"
+      },
+      "privacyNote": "Your information is used to process your request. Please read our Privacy Policy to learn how your data is handled and what rights you have."
+    },
+    "map": {
+      "eyebrow": "FIND US",
+      "title": "Let's stay in touch",
+      "description": "Let's discuss your SEO strategy and the growth opportunities best suited to your business.",
+      "iframeTitle": "Impact Words location on Google Maps"
+    },
+    "finalCta": {
+      "eyebrow": "TAKE ACTION",
+      "title": "Turn your visibility into a genuine driver of growth.",
+      "description": "Tell us about your project so we can identify the next SEO and content initiatives to put in place.",
+      "button": "Discuss my project"
+    }
+  },
+
+  "Header": {
+    "logoAriaLabel": "Impact Words — home",
+    "desktopNavigationLabel": "Main navigation",
+    "mobileNavigationLabel": "Mobile navigation",
+    "links": {
+      "services": "Services",
+      "contact": "Hours & Contact"
+    },
+    "cta": "Let's discuss your project",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "languageSwitcherLabel": "Choose language",
+    "languages": {
+      "french": "French",
+      "english": "English"
+    }
+  },
+
+  "Footer": {
+    "brand": {
+      "homeAriaLabel": "Impact.Words — home",
+      "description": "Digital experiences with purpose. Clear, thoughtful and carefully crafted experiences designed to move your business forward."
+    },
+    "sections": {
+      "explore": "Explore",
+      "contact": "Contact",
+      "availability": "Availability"
+    },
+    "navigation": {
+      "servicesAriaLabel": "Services",
+      "legalAriaLabel": "Legal information"
+    },
+    "services": {
+      "seoStrategy": "SEO Audit & Strategy",
+      "seoContent": "SEO Content",
+      "netlinking": "Link Building & Local SEO",
+      "landingPages": "Sales Pages & Landing Pages",
+      "copywriting": "Copywriting & Email Marketing"
+    },
+    "contact": {
+      "email": "Email",
+      "phone": "Phone"
+    },
+    "hours": {
+      "weekdays": {
+        "days": "Monday — Friday",
+        "time": "9:00 am — 6:00 pm"
+      },
+      "weekend": {
+        "days": "Saturday — Sunday",
+        "time": "By appointment"
+      },
+      "note": "Have a specific enquiry? Contact us by email."
+    },
+    "copyright": "Impact Words. All rights reserved.",
+    "legal": {
+      "legalNotice": "Legal Notice",
+      "privacy": "Privacy Policy"
+    },
+    "backToTop": "Back to top"
+  },
+
+  "LegalNotices": {
+    "metadata": {
+      "title": "Legal Notice | Impact Words",
+      "description": "Read the legal notice for the Impact Words website, including publisher details, hosting information, intellectual property and regulatory disclosures."
+    },
+    "hero": {
+      "eyebrow": "LEGAL INFORMATION",
+      "title": "Legal",
+      "titleAccent": "notice.",
+      "intro": "Find information here about the publisher of the {company} website, its hosting provider and the terms governing the use of its content.",
+      "updated": "Last updated: {date}"
+    },
+    "navigation": {
+      "tocAriaLabel": "Legal notice table of contents",
+      "tocTitle": "On this page"
+    },
+    "fields": {
+      "fullName": "Full name",
+      "tradeName": "Trading name",
+      "legalStatus": "Legal status",
+      "businessAddress": "Business address",
+      "siren": "SIREN number",
+      "siret": "SIRET number",
+      "vatNumber": "EU VAT number",
+      "email": "Email",
+      "phone": "Phone",
+      "publicationDirector": "Publication director",
+      "host": "Hosting provider",
+      "address": "Address",
+      "website": "Website",
+      "contact": "Contact"
+    },
+    "sections": {
+      "publisher": {
+        "title": "Website publisher",
+        "intro": "This website is published by the sole trader operating under the trading name {company}."
+      },
+      "hosting": {
+        "title": "Hosting",
+        "intro": "The website is hosted by the following company:"
+      },
+      "purpose": {
+        "title": "Purpose of the website",
+        "content": "The Impact Words website presents the business's activities, services and offerings. It also allows visitors to contact the business and submit quote requests."
+      },
+      "intellectualProperty": {
+        "title": "Intellectual property",
+        "paragraph1": "The website's content, including text, graphic elements, logos, images and layout elements, is protected by applicable intellectual property laws, subject to any rights held by third parties.",
+        "paragraph2": "Any reproduction, representation or use of this content without the prior authorisation of the relevant rights holder is prohibited, except where permitted by law."
+      },
+      "liability": {
+        "title": "Liability",
+        "content": "Impact Words endeavours to publish accurate and up-to-date information. However, the business does not guarantee that all information is free from errors or always current. Users are encouraged to verify any relevant information before relying on it to make a decision."
+      },
+      "externalLinks": {
+        "title": "External links",
+        "content": "The website may contain links to third-party websites. Impact Words does not control these websites and cannot be held responsible for their content, availability or practices."
+      },
+      "personalData": {
+        "title": "Personal data",
+        "paragraph1": "Information submitted through contact forms or quote request forms may be used to respond to enquiries and manage follow-up communications relating to potential business.",
+        "paragraph2": "Detailed information about the data collected, the purposes and legal bases of processing, retention periods, recipients and individuals' rights is provided in our Privacy Policy.",
+        "privacyLink": "Read the Privacy Policy",
+        "contactIntro": "For any questions about personal data:"
+      },
+      "cookies": {
+        "title": "Cookies and trackers",
+        "content": "The website may use cookies or other trackers that are necessary for its operation or serve other purposes, depending on the tools actually installed. Where required by law, visitors' consent is obtained before the relevant trackers are placed. Information about the tools actually used and how to manage preferences should be available on the website."
+      },
+      "applicableLaw": {
+        "title": "Applicable law",
+        "content": "This legal notice is governed by French law, subject to any mandatory applicable rules. In the event of a dispute, the applicable rules on jurisdiction determine the competent court."
+      }
+    },
+    "footer": {
+      "question": "Have a question about this website?",
+      "contactLink": "Contact us"
+    }
+  },
+
+  "PrivacyPolicy": {
+    "metadata": {
+      "title": "Privacy Policy | Impact Words",
+      "description": "Learn how Impact Words collects, uses, retains and protects personal data submitted through its website and forms."
+    },
+    "hero": {
+      "eyebrow": "PRIVACY & PERSONAL DATA",
+      "title": "Privacy",
+      "titleAccent": "Policy.",
+      "intro": "Transparency matters. This page explains how {company} processes personal data when you visit the website or contact us with an enquiry.",
+      "updated": "Last updated: {date}"
+    },
+    "navigation": {
+      "tocAriaLabel": "Privacy Policy table of contents",
+      "tocTitle": "On this page"
+    },
+    "fields": {
+      "controller": "Data controller",
+      "address": "Business address",
+      "dataContact": "Data protection contact"
+    },
+    "sections": {
+      "controller": {
+        "title": "Who is responsible for your data?",
+        "intro": "The data controller responsible for the personal data processing described in this policy is the sole trader operating under the trading name {company}.",
+        "legalIntro": "Legal information about the website publisher is available on our",
+        "legalLink": "Legal Notice"
+      },
+      "data": {
+        "title": "What data do we collect?",
+        "intro": "The data collected depends on the information you voluntarily provide through our forms or share during your communications with Impact Words.",
+        "items": {
+          "identity": {
+            "label": "Identification data:",
+            "text": "first and last name."
+          },
+          "contact": {
+            "label": "Contact details:",
+            "text": "email address, phone number if requested, and any other contact details you choose to provide."
+          },
+          "project": {
+            "label": "Project information:",
+            "text": "the purpose of your enquiry, your stated needs, project description, budget or timeline, where requested."
+          },
+          "exchanges": {
+            "label": "Communications:",
+            "text": "messages you send and replies needed to follow up on your enquiry."
+          },
+          "technical": {
+            "label": "Technical data:",
+            "text": "certain connection details or security logs may be processed by the hosting provider or technical services used, depending on their configuration."
+          }
+        },
+        "warning": "Do not submit sensitive data or confidential information that is not necessary to process your enquiry."
+      },
+      "purposes": {
+        "title": "Why do we use your data?",
+        "intro": "Your data is processed for the following purposes:",
+        "items": {
+          "contact": "to receive and respond to your enquiries;",
+          "quote": "to understand your needs and prepare a response or quote;",
+          "followUp": "to communicate with you and follow up on your enquiry;",
+          "contract": "to take the pre-contractual steps you request and, if you accept a proposal, to prepare for or perform a contractual relationship;",
+          "security": "to ensure the website's security, proper operation and maintenance where technical data is processed for these purposes;",
+          "legal": "to comply with legal obligations and protect Impact Words' rights in the event of a dispute, where necessary."
+        },
+        "outro": "Your data must not be reused for purposes incompatible with those for which it was collected. Any additional use requiring separate information or a distinct legal basis will be handled through the appropriate measures."
+      },
+      "legalBases": {
+        "title": "What are the legal bases for processing?",
+        "intro": "Depending on the processing activity, your data is processed on one of the following legal bases:",
+        "items": {
+          "precontractual": {
+            "label": "Pre-contractual steps:",
+            "text": "when you request a quote or wish to discuss a potential service, the necessary data is processed to respond to your request."
+          },
+          "legitimateInterest": {
+            "label": "Legitimate interests:",
+            "text": "certain data may be processed to respond to a general enquiry, secure the website, prevent misuse or handle a complaint, after balancing these interests against your rights and interests."
+          },
+          "legalObligation": {
+            "label": "Legal obligation:",
+            "text": "where applicable law requires certain information to be retained or disclosed."
+          },
+          "consent": {
+            "label": "Consent:",
+            "text": "where required, particularly for certain non-essential cookies or trackers, or for another use that requires your agreement."
+          }
+        },
+        "outro": "You may choose not to provide certain information. However, if it is necessary to respond to your enquiry or prepare a quote, your decision may prevent us from processing your request."
+      },
+      "retention": {
+        "title": "How long do we retain your data?",
+        "intro": "Data is retained only for as long as appropriate to fulfil its purpose, subject to applicable legal obligations.",
+        "contactTitle": "Enquiries and quote requests",
+        "clientTitle": "Clients and contractual documents",
+        "clientText": "If your enquiry results in a service engagement, certain data may be retained throughout the contractual relationship and then archived for the periods required by legal, accounting or tax obligations and to establish, exercise or defend legal claims. Retention periods vary depending on the document concerned.",
+        "technicalTitle": "Technical data and logs",
+        "technicalText": "Retention periods depend on the hosting provider, security tools and actual configuration. They must be defined according to security requirements and applicable obligations.",
+        "outro": "At the end of the applicable retention period, data is deleted or anonymised unless further retention is necessary or required by law."
+      },
+      "recipients": {
+        "title": "Who can access your data?",
+        "intro": "Your data is accessible only to those who need it for the purposes described in this policy.",
+        "items": {
+          "company": {
+            "label": "Impact Words:",
+            "text": "to process enquiries, communicate with you and manage business follow-up."
+          },
+          "providers": {
+            "label": "Technical service providers:",
+            "text": "the providers actually used for hosting, form submissions, email, website maintenance or security, to the extent required for their assigned tasks."
+          },
+          "authorities": {
+            "label": "Competent authorities:",
+            "text": "where required by law or an enforceable decision."
+          }
+        },
+        "outro": "The relevant providers must be identified based on the website's actual configuration. Your data is not sold to third parties.",
+        "confirmationLabel": "Recipients to be confirmed:"
+      },
+      "transfers": {
+        "title": "Hosting and transfers outside the European Union",
+        "paragraph1": "The website is hosted by Vercel. Depending on the technical configuration, the services enabled and the providers involved, certain technical data or information submitted through the website may be processed in countries outside the European Union, including the United States.",
+        "paragraph2": "Where personal data is transferred outside the European Economic Area, the transfer must rely on a mechanism compliant with the GDPR, such as an applicable adequacy decision or appropriate contractual safeguards, depending on the transfer and the provider concerned.",
+        "paragraph3": "The specific arrangements must be verified against the contracts, deployment settings and privacy documentation of the providers actually used. General information about the hosting provider is available in the",
+        "legalLink": "Legal Notice"
+      },
+      "rights": {
+        "title": "What are your rights?",
+        "intro": "Subject to the conditions and limitations set out in applicable law, you may request:",
+        "items": {
+          "access": "access to the personal data concerning you;",
+          "rectification": "correction of inaccurate or incomplete data;",
+          "erasure": "erasure of your data where the relevant conditions are met;",
+          "restriction": "restriction of certain processing activities;",
+          "objection": "objection to processing based on legitimate interests, on grounds relating to your particular situation;",
+          "portability": "data portability where this right applies;",
+          "withdrawal": "withdrawal of your consent at any time where processing is based on consent, without affecting the lawfulness of processing carried out before its withdrawal."
+        },
+        "contactIntro": "To exercise your rights, email",
+        "contactOutro": "and specify your request. Where necessary, we may ask for additional information to verify your identity in a proportionate manner.",
+        "responseTime": "We generally respond within one month. This period may be extended in accordance with the GDPR, particularly where a request is complex or numerous requests have been received.",
+        "complaintIntro": "If, after contacting us, you believe your rights have not been respected, you may lodge a complaint with the French Data Protection Authority (CNIL) through",
+        "cnilLink": "its official website"
+      },
+      "security": {
+        "title": "Data security",
+        "content": "Impact Words implements technical and organisational measures appropriate to its activities to protect data against loss, alteration, disclosure or unauthorised access. As no transmission or storage system can guarantee absolute security, measures are tailored to the risks and the tools actually used."
+      },
+      "cookies": {
+        "title": "Cookies and other trackers",
+        "paragraph1": "Cookies or other trackers may be used to provide certain features, remember preferences, protect the website or measure its audience. The tools actually in use must be verified before this policy is published.",
+        "paragraph2": "Trackers that are strictly necessary for the requested service may be subject to different rules from non-essential trackers. Where consent is required, the relevant trackers must not be placed before consent has been obtained.",
+        "paragraph3": "If the website uses a consent management tool, you will be able to change your choices through the cookie management mechanism provided on the website. This mechanism must actually be installed and functional before it is described as available."
+      },
+      "changes": {
+        "title": "Changes to this policy",
+        "content": "This policy may be updated to reflect changes in data processing, the tools used or applicable legal obligations. The date of the latest update appears at the top of this page. Where a substantial change requires specific notification, affected individuals will be informed through appropriate means."
+      }
+    },
+    "footer": {
+      "title": "Questions about your personal data?",
+      "text": "Contact Impact Words to exercise your rights or request further information about how your data is processed.",
+      "contactLink": "Contact us",
+      "legalIntro": "For information about the website publisher and hosting provider, please see the",
+      "legalLink": "Legal Notice"
+    }
+  }
+}

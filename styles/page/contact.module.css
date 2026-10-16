@@ -1,0 +1,999 @@
+.page {
+  --ivory: #f7f8f4;
+  --ink: #192e2b;
+  --muted: #687773;
+  --green: #237b5a;
+  --deep-green: #153d35;
+  --mint: #b9e4c9;
+  --blue: #d9e9f5;
+  --border: #dfe6df;
+
+  overflow: hidden;
+  color: var(--ink);
+  background: var(--ivory);
+}
+
+.page * {
+  box-sizing: border-box;
+}
+
+/* =========================
+   HERO
+========================= */
+
+.hero {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  padding: 88px 22px 100px;
+  background:
+    radial-gradient(ellipse at 85% 12%, #d9e9f5 0, transparent 35%),
+    radial-gradient(ellipse at 8% 90%, #b9e4c9 0, transparent 35%), var(--ivory);
+}
+
+.heroInner {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  animation: riseIn 700ms ease both;
+}
+
+.eyebrow {
+  margin: 0 0 16px;
+  color: var(--green);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  line-height: 1.5;
+}
+
+.hero h1 {
+  max-width: 850px;
+  margin: 0 auto;
+  font-size: clamp(2.5rem, 10vw, 5.6rem);
+  font-weight: 750;
+  letter-spacing: -0.065em;
+  line-height: 1.02;
+}
+
+.hero h1 span {
+  color: var(--green);
+}
+
+.heroText {
+  max-width: 650px;
+  margin: 25px auto 0;
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1.85;
+}
+
+/* =========================
+   BOUTONS
+========================= */
+
+.primaryButton,
+.submitButton {
+  display: inline-flex;
+  min-height: 54px;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  padding: 15px 22px;
+  border: 1px solid var(--deep-green);
+  border-radius: 999px;
+  background: var(--deep-green);
+  color: white;
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition:
+    transform 220ms ease,
+    background 220ms ease,
+    box-shadow 220ms ease;
+}
+
+.hero .primaryButton {
+  margin-top: 28px;
+}
+
+.primaryButton:hover,
+.submitButton:hover:not(:disabled) {
+  transform: translateY(-3px);
+  background: var(--green);
+  box-shadow: 0 12px 28px #153d3525;
+}
+
+.primaryButton span,
+.submitButton span {
+  font-size: 1.15rem;
+}
+
+.heroNote {
+  margin: 14px 0 0;
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+.heroGlow {
+  position: absolute;
+  z-index: -1;
+  top: 15%;
+  left: 50%;
+  width: 280px;
+  height: 280px;
+  border: 1px solid #237b5a18;
+  border-radius: 50%;
+  transform: translateX(-50%);
+}
+
+.heroDecoration {
+  display: none;
+}
+
+/* =========================
+   SECTION CONTACT
+========================= */
+
+.contactSection {
+  padding: 76px 20px 90px;
+}
+
+.sectionIntro {
+  max-width: 700px;
+  margin: 0 auto 42px;
+  text-align: center;
+}
+
+.sectionIntro h2,
+.mapHeader h2,
+.formHeader h2 {
+  margin: 0;
+  font-size: clamp(1.8rem, 6vw, 3rem);
+  font-weight: 750;
+  letter-spacing: -0.045em;
+  line-height: 1.12;
+}
+
+.sectionIntro > p:last-child {
+  margin: 16px auto 0;
+  color: var(--muted);
+  line-height: 1.8;
+}
+
+.contactGrid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 22px;
+  width: 100%;
+  max-width: 1160px;
+  margin: 0 auto;
+  align-items: start;
+}
+
+.infoColumn {
+  display: grid;
+  gap: 14px;
+}
+
+/* =========================
+   CARTES CONTACT
+========================= */
+
+.infoCard,
+.formCard,
+.trustCard {
+  border: 1px solid var(--border);
+  border-radius: 22px;
+  background: #fff;
+  box-shadow: 0 12px 40px #192e2b06;
+}
+
+.infoCard {
+  padding: 23px;
+  transition:
+    transform 250ms ease,
+    box-shadow 250ms ease;
+}
+
+.infoCard:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 15px 32px #192e2b0b;
+}
+
+.infoIcon {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  place-items: center;
+  margin-bottom: 19px;
+  border-radius: 14px;
+  background: #b9e4c94d;
+  color: var(--deep-green);
+  font-size: 1.25rem;
+  font-weight: 800;
+}
+
+.infoCard h3 {
+  margin: 0 0 9px;
+  font-size: 1.08rem;
+  letter-spacing: -0.02em;
+}
+
+.infoCard > a {
+  color: var(--green);
+  font-size: 0.92rem;
+  font-weight: 700;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+  overflow-wrap: anywhere;
+}
+
+.infoCard > p {
+  margin: 11px 0 0;
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.7;
+}
+
+.hours {
+  display: grid;
+  gap: 12px;
+  margin: 15px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.hours li {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 0.85rem;
+}
+
+.hours li span:last-child {
+  color: var(--muted);
+  text-align: right;
+}
+
+/* =========================
+   RÉSEAUX SOCIAUX
+========================= */
+
+.socialCard {
+  padding: 25px;
+  border: 1px solid var(--border);
+  border-radius: 22px;
+  background:
+    radial-gradient(ellipse at 100% 0%, #b9e4c930, transparent 55%), #fff;
+  box-shadow: 0 12px 40px #192e2b06;
+}
+
+.socialEyebrow {
+  margin: 0 0 10px;
+  color: var(--green);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+
+.socialCard h3 {
+  margin: 0;
+  font-size: 1.15rem;
+  letter-spacing: -0.03em;
+}
+
+.socialDescription {
+  margin: 10px 0 20px;
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.7;
+}
+
+.socialLinks {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 12px;
+}
+
+.socialLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  flex: 0 0 48px;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: #fbfcfa;
+  color: var(--deep-green);
+  text-decoration: none;
+  transition:
+    transform 200ms ease,
+    color 200ms ease,
+    border-color 200ms ease,
+    background-color 200ms ease;
+}
+
+.socialLink svg {
+  display: block;
+  width: 23px;
+  height: 23px;
+}
+
+.socialLink:hover {
+  transform: translateY(-3px);
+  border-color: #a9c7b5;
+  background: #eaf4ec;
+  color: var(--green);
+}
+
+.socialLink:focus-visible {
+  outline: 3px solid #237b5a55;
+  outline-offset: 3px;
+}
+
+/* =========================
+   CARTE DE CONFIANCE
+========================= */
+
+.trustCard {
+  display: flex;
+  gap: 13px;
+  padding: 20px;
+  background: #eaf4ec;
+}
+
+.trustDot {
+  flex: 0 0 9px;
+  width: 9px;
+  height: 9px;
+  margin-top: 6px;
+  border-radius: 50%;
+  background: var(--green);
+  box-shadow: 0 0 0 5px #237b5a18;
+}
+
+.trustCard strong {
+  font-size: 0.9rem;
+}
+
+.trustCard p {
+  margin: 7px 0 0;
+  color: var(--muted);
+  font-size: 0.84rem;
+  line-height: 1.7;
+}
+
+/* =========================
+   FORMULAIRE
+========================= */
+
+.formCard {
+  min-width: 0;
+  padding: 25px 19px;
+  scroll-margin-top: 30px;
+}
+
+.formHeader {
+  margin-bottom: 27px;
+}
+
+.formHeader h2 {
+  font-size: clamp(1.65rem, 5vw, 2.25rem);
+}
+
+.formHeader > p:last-child {
+  margin: 12px 0 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.form {
+  display: grid;
+  gap: 19px;
+}
+
+.fieldGrid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 19px;
+}
+
+.field {
+  display: grid;
+  min-width: 0;
+  gap: 9px;
+}
+
+.field > span {
+  font-size: 0.84rem;
+  font-weight: 700;
+}
+
+.field input,
+.field select,
+.field textarea {
+  width: 100%;
+  min-width: 0;
+  min-height: 50px;
+  padding: 13px 14px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  outline: none;
+  background: #fbfcfa;
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.9rem;
+  transition:
+    border-color 180ms ease,
+    box-shadow 180ms ease;
+}
+
+.field textarea {
+  min-height: 145px;
+  resize: vertical;
+  line-height: 1.7;
+}
+
+/* Champs select personnalisés */
+
+.field select {
+  width: 100%;
+  min-height: 52px;
+  padding: 14px 46px 14px 16px;
+  appearance: none;
+  -webkit-appearance: none;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background-color: #fbfcfa;
+  color: var(--ink);
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.5;
+  cursor: pointer;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='%23237b5a' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 16px center;
+  background-size: 18px;
+  transition:
+    border-color 180ms ease,
+    box-shadow 180ms ease,
+    background-color 180ms ease;
+}
+
+.field select:hover {
+  border-color: #a9c7b5;
+  background-color: #fff;
+}
+
+.field select:focus-visible {
+  outline: none;
+  border-color: var(--green);
+  box-shadow: 0 0 0 4px #237b5a18;
+}
+
+.field select:invalid {
+  color: #929e98;
+}
+
+.field select option {
+  background-color: #fff;
+  color: var(--ink);
+  font-family: inherit;
+  font-size: 0.9rem;
+}
+
+.field select option:disabled {
+  color: #929e98;
+}
+
+.field input::placeholder,
+.field textarea::placeholder {
+  color: #929e98;
+}
+
+.field input:focus,
+.field select:focus,
+.field textarea:focus {
+  border-color: var(--green);
+  box-shadow: 0 0 0 3px #237b5a18;
+}
+
+.honeypot {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+/* Bouton d'envoi */
+
+.submitButton {
+  width: 100%;
+  min-height: 56px;
+}
+
+.submitButton:disabled {
+  cursor: wait;
+  opacity: 0.65;
+}
+
+.privacyNote {
+  margin: -6px 0 0;
+  color: var(--muted);
+  font-size: 0.76rem;
+  line-height: 1.7;
+  text-align: center;
+}
+
+/* Messages du formulaire */
+
+.successMessage,
+.errorMessage {
+  margin-bottom: 20px;
+  padding: 16px;
+  border-radius: 13px;
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+
+.successMessage {
+  border: 1px solid #b9e4c9;
+  background: #eaf7ed;
+  color: var(--deep-green);
+}
+
+.successMessage p {
+  margin: 6px 0 0;
+}
+
+.errorMessage {
+  border: 1px solid #edc5c0;
+  background: #fff0ee;
+  color: #8b3027;
+}
+
+/* =========================
+   CONSENTEMENT CONFIDENTIALITÉ
+========================= */
+
+.privacyConsent {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: #fbfcfa;
+}
+
+.privacyConsent input[type="checkbox"] {
+  flex: 0 0 18px;
+  width: 18px;
+  height: 18px;
+  margin: 3px 0 0;
+  accent-color: var(--green);
+  cursor: pointer;
+}
+
+.privacyConsent label {
+  color: var(--muted);
+  font-size: 0.84rem;
+  line-height: 1.7;
+  cursor: pointer;
+}
+
+.privacyConsent a {
+  color: var(--green);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.privacyConsent a:focus-visible {
+  outline: 2px solid var(--green);
+  outline-offset: 3px;
+}
+
+/* =========================
+   GOOGLE MAPS + CTA
+   MOBILE PAR DÉFAUT
+========================= */
+
+.mapCtaGrid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 24px;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 25px 20px 85px;
+  align-items: stretch;
+}
+
+/* Google Maps */
+
+.mapCtaGrid .mapSection {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.mapCtaGrid .mapHeader {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 12px;
+  align-items: start;
+  margin-bottom: 25px;
+}
+
+.mapCtaGrid .mapHeader h2 {
+  margin: 0;
+}
+
+.mapCtaGrid .mapHeader p {
+  margin: 0;
+}
+
+.mapCtaGrid .mapFrame {
+  position: relative;
+  width: 100%;
+  height: 320px;
+  min-width: 0;
+  overflow: hidden;
+  border-radius: 16px;
+  box-shadow:
+    0 0 10px rgba(0, 0, 0, 0.3),
+    inset 0 1px 0 rgba(255, 255, 255, 0.035);
+}
+
+.mapCtaGrid .mapFrame iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* CTA final */
+
+.mapCtaGrid .bottomCta {
+  position: relative;
+  isolation: isolate;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  width: 100%;
+  max-width: none;
+  min-height: 320px;
+  margin: 0;
+  padding: 40px 25px;
+  overflow: hidden;
+  text-align: center;
+  border-radius: 22px;
+  /* background: var(--deep-green); */
+  color: white;
+  box-shadow:
+    0 30px 100px rgba(0, 0, 0, 0.3),
+    inset 0 1px 0 rgba(255, 255, 255, 0.035);
+}
+
+.ctaGlow {
+  position: absolute;
+  z-index: -1;
+  top: -270px;
+  left: 50%;
+  width: 850px;
+  height: 650px;
+  border-radius: 50%;
+  background:
+    radial-gradient(ellipse at 90% 10%, #b9e4c926, transparent 35%),
+    var(--deep-green);
+  filter: blur(25px);
+  transform: translateX(-50%);
+  pointer-events: none;
+  animation: glowPulse 7s ease-in-out infinite;
+  will-change: transform;
+}
+
+.bottomCta .eyebrow {
+  color: var(--mint);
+}
+
+.bottomCta h2 {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: clamp(2rem, 7vw, 3.8rem);
+  letter-spacing: -0.055em;
+  line-height: 1.08;
+  overflow-wrap: anywhere;
+}
+
+.bottomCta > p:not(.eyebrow) {
+  max-width: 620px;
+  margin: 19px auto 0;
+  color: #ffffffbb;
+  line-height: 1.8;
+}
+
+.bottomCta .primaryButton {
+  margin-top: 25px;
+  border-color: var(--mint);
+  background: var(--mint);
+  color: var(--deep-green);
+}
+
+.bottomCta .primaryButton:hover {
+  background: #d4f1de;
+}
+
+@keyframes glowPulse {
+  0%,
+  100% {
+    transform: translateX(-50%) scale(1);
+  }
+
+  50% {
+    transform: translateX(-50%) scale(1.25);
+  }
+}
+
+/* =========================
+   ANIMATIONS
+========================= */
+
+@keyframes riseIn {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* =========================
+   TABLETTES
+========================= */
+
+@media (min-width: 600px) {
+  .hero {
+    padding: 115px 32px 125px;
+  }
+
+  .heroText {
+    font-size: 1.08rem;
+  }
+
+  .contactSection {
+    padding: 95px 30px 105px;
+  }
+
+  .sectionIntro {
+    margin-bottom: 52px;
+  }
+
+  .fieldGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .formCard {
+    padding: 34px;
+  }
+
+  .infoColumn {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .trustCard,
+  .socialCard {
+    grid-column: 1 / -1;
+  }
+
+  .socialLinks {
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 12px;
+  }
+
+  .mapCtaGrid {
+    gap: 24px;
+    padding: 30px 30px 100px;
+  }
+
+  .mapCtaGrid .mapFrame {
+    height: 380px;
+  }
+
+  .mapCtaGrid .bottomCta {
+    min-height: 380px;
+    padding: 40px 30px;
+  }
+}
+
+/* =========================
+   GRAND ÉCRAN
+========================= */
+
+@media (min-width: 900px) {
+  .hero {
+    padding: 135px 40px 145px;
+  }
+
+  .heroGlow {
+    width: 440px;
+    height: 440px;
+  }
+
+  .heroDecoration {
+    position: absolute;
+    right: 5%;
+    bottom: 12%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #153d3535;
+    font-size: 0.7rem;
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    transform: rotate(-8deg);
+  }
+
+  .heroDecoration span:nth-child(2) {
+    color: var(--green);
+    font-size: 1.3rem;
+  }
+
+  .contactSection {
+    padding: 110px 40px 120px;
+  }
+
+  .contactGrid {
+    grid-template-columns: minmax(280px, 0.78fr) minmax(0, 1.4fr);
+    gap: 28px;
+  }
+
+  .infoColumn {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .trustCard,
+  .socialCard {
+    grid-column: auto;
+  }
+
+  .socialCard {
+    padding: 27px;
+  }
+
+  .formCard {
+    padding: 42px;
+    border-radius: 28px;
+  }
+
+  /* Map et CTA côte à côte */
+
+  .mapCtaGrid {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 30px;
+    padding: 30px 40px 115px;
+  }
+
+  .mapCtaGrid .mapSection {
+    height: 100%;
+  }
+
+  .mapCtaGrid .mapHeader {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 12px;
+    align-items: start;
+    margin-bottom: 25px;
+  }
+
+  .mapCtaGrid .mapFrame {
+    flex: 1;
+    height: auto;
+    min-height: 440px;
+  }
+
+  .mapCtaGrid .bottomCta {
+    align-self: stretch;
+    min-height: 440px;
+    height: 100%;
+    padding: 40px;
+  }
+}
+
+/* =========================
+   TRÈS GRANDS ÉCRANS
+========================= */
+
+@media (min-width: 1200px) {
+  .hero {
+    padding-top: 155px;
+    padding-bottom: 160px;
+  }
+
+  .contactGrid {
+    gap: 35px;
+  }
+
+  .infoCard {
+    padding: 27px;
+  }
+
+  .mapCtaGrid .mapFrame {
+    min-height: 480px;
+  }
+
+  .mapCtaGrid .bottomCta {
+    min-height: 480px;
+  }
+}
+
+/* =========================
+   PETITS MOBILES
+========================= */
+
+@media (max-width: 480px) {
+  .mapCtaGrid {
+    gap: 24px;
+    padding: 20px 16px 60px;
+  }
+
+  .mapCtaGrid .mapFrame {
+    height: 280px;
+    min-height: 0;
+  }
+
+  .mapCtaGrid .bottomCta {
+    min-height: 280px;
+    padding: 30px 20px;
+  }
+}
+
+/* =========================
+   ACCESSIBILITÉ
+========================= */
+
+@media (prefers-reduced-motion: reduce) {
+  .heroInner {
+    animation: none;
+  }
+
+  .infoCard,
+  .primaryButton,
+  .submitButton,
+  .socialLink,
+  .field select {
+    transition: none;
+  }
+
+  .socialLink:hover,
+  .infoCard:hover,
+  .primaryButton:hover,
+  .submitButton:hover:not(:disabled) {
+    transform: none;
+  }
+
+  .ctaGlow {
+    animation: none;
+  }
+}
