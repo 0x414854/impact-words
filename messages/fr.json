@@ -264,7 +264,7 @@
       "serviceCount": "{count, plural, one {# PRESTATION} other {# PRESTATIONS}}",
       "indicativePrice": "Tarif indicatif",
       "startingAt": "À PARTIR DE",
-      "comingSoon": "Bientôt disponible",
+      "comingSoon": "",
       "discoverService": "Découvrir {service}",
       "unavailableService": "{service} : bientôt disponible"
     },
