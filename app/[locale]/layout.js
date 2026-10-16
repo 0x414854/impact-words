@@ -12,47 +12,66 @@ import Header from "../components/header/header";
 import Footer from "../components/footer/footer";
 
 export const metadata = {
-  title: "NextJS Starter - 0x414854", // TODO: Change this
+  metadataBase: new URL("https://impact-words.com"),
+
+  title: {
+    default: "Impact Words | SEO et rédaction web",
+    template: "%s | Impact Words",
+  },
+
   description:
-    "A modern, ready-to-use Next.js boilerplate with built-in i18n support, clear structure for styles and components, and essential tools preconfigured to kickstart your web projects quickly.", // TODO: Change this
-  icons: [{ url: "/favicon.ico", sizes: "48x48", type: "image/x-icon" }], // TODO: Change this
+    "Impact Words vous accompagne en référencement naturel (SEO), rédaction web et stratégie éditoriale pour améliorer votre visibilité en ligne et attirer une audience qualifiée.",
+
+  icons: {
+    icon: "/favicon.ico",
+  },
+
   keywords: [
-    // TODO: Change All keywords
-    "KeyWord_1",
-    "KeyWord_2",
-    "KeyWord_3",
-    "KeyWord_4",
-    "KeyWord_5",
-    "KeyWord_6",
-    "KeyWord_7",
-    "KeyWord_8",
-    "KeyWord_9",
-    "KeyWord_10",
+    "Impact Words",
+    "SEO",
+    "référencement naturel",
+    "rédaction web SEO",
+    "rédaction de contenu web",
+    "stratégie éditoriale",
+    "optimisation SEO",
+    "audit SEO",
+    "visibilité en ligne",
+    "contenu optimisé pour les moteurs de recherche",
   ],
-  authors: [{ name: "0x414854 – Arthur BARRAUD" }], // TODO: Change this
+
+  authors: [{ name: "Impact Words" }],
+  creator: "Impact Words",
+  publisher: "Impact Words",
+
   openGraph: {
-    title: "NextJS Starter - 0x414854", // TODO: Change this
+    title: "Impact Words | SEO et rédaction web",
     description:
-      "A modern, ready-to-use Next.js boilerplate with built-in i18n support, clear structure for styles and components, and essential tools preconfigured to kickstart your web projects quickly.", // TODO: Change this
-    url: "https://www.arthurbarraud.me", // TODO: Change this
-    siteName: "NextJS Starter - 0x414854", // TODO: Change this
-    images: [
-      {
-        url: "/ogImage.png", // TODO: Add 'ogImage.png (1200 x 630) in 'public' folder
-        width: 1200,
-        height: 630,
-        alt: "Aperçu portfolio", // TODO: Change this
-      },
-    ],
-    locale: "fr_FR", // TODO: Change this
+      "Développez votre visibilité en ligne grâce au référencement naturel, à la rédaction web SEO et à une stratégie éditoriale adaptée à vos objectifs.",
+    url: "https://impact-words.com",
+    siteName: "Impact Words",
+    // images: [
+    //   {
+    //     url: "/ogImage.png",
+    //     width: 1200,
+    //     height: 630,
+    //     alt: "Impact Words — SEO, rédaction web et stratégie éditoriale",
+    //   },
+    // ],
+    locale: "fr_FR",
     type: "website",
   },
+
   twitter: {
     card: "summary_large_image",
-    title: "NextJS Starter - 0x414854", // TODO: Change this
+    title: "Impact Words | SEO et rédaction web",
     description:
-      "A modern, ready-to-use Next.js boilerplate with built-in i18n support, clear structure for styles and components, and essential tools preconfigured to kickstart your web projects quickly.", // TODO: Change this
-    images: ["/ogImage.png"],
+      "Améliorez votre visibilité en ligne avec Impact Words : SEO, rédaction web et stratégie éditoriale.",
+    // images: ["/ogImage.png"],
+  },
+
+  robots: {
+    index: true,
+    follow: true,
   },
 };
 
